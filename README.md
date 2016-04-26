@@ -50,4 +50,4 @@
 
 #### Notice
 
-    first use please [linear-chan init] first, it will create config files in /etc/linear-chan.conf and /etc/linear-chan.d/server.conf
+    first use please [linear-chan init] first, it will create config files in /etc/linear-chan.ini and /etc/linear-chan.d/projects.ini
