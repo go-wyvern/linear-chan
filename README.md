@@ -9,7 +9,8 @@
 
 #### Installation
 
-    go install
+    go get github.com/go-wyvern/linear-chan
+    go install github.com/go-wyvern/linear-chan
     
 #### Usage:
 
